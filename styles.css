@@ -89,7 +89,7 @@ img {
   opacity: 70%;
 }
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1024px) {
   .grid {
     display: grid;
     gap: 30px;
